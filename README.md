@@ -1,4 +1,4 @@
-<img width="707" height="503" alt="Screenshot 2026-05-22 at 16 34 30" src="https://github.com/user-attachments/assets/67aca5f5-e391-4430-882c-46354a2e2803" /># ✈️ Smart Autonomous Luggage Carrying & Navigation Robot for Airports
+# ✈️ Smart Autonomous Luggage Carrying & Navigation Robot for Airports
 
 An intelligent embedded robotic system designed to autonomously carry passenger luggage and guide users to predefined airport destinations. The system uses line-following navigation, RFID-based destination selection, and real-time load monitoring to provide a smart, low-cost airport automation solution.
 
